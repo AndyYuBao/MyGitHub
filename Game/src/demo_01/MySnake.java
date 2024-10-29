@@ -6,7 +6,7 @@ import java.awt.*;
 /**
  * ClassName: MySnake
  * Description:
- * <p>
+ * <p>      Here's a little game: Snake
  * Datetime: 2024/10/25 11:30
  * Author: YuYuIT
  * Version: 1.0
